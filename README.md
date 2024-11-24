@@ -14,7 +14,7 @@
   <img align="right" width="300" src="programmer.gif" alt="Coding gif" />
 </p>
 
-- 🏢 I'm a Software Engineer at information technology . <br/>
+- 🏢 I'm a Software Engineer. <br/>
 - 👨‍💻 As a CS student, I'm learning and exploring new technologies to improve my skills. <br/>
  
 -  
