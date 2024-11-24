@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20AI-Engineer%20Machine%20learning;Ex-Senior%20Community%20Manager;Creative%20Python%20Project%20Builder;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=500&height=45&color=blue&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20AI-Engineer%20Machine%20learning;computer%20vision%20learner;Creative%20Python%20Project%20Builder;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=500&height=45&color=blue&vCenter=true&size=22">
   </a>
 </p>
 
