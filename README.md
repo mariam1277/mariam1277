@@ -33,7 +33,7 @@
 </p>
 
 ### 🛠 &nbsp;Tech Stack
-![c++](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![c++](https://img.shields.io/badge/-c++-05122A?style=flat&logo=c++)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp&logoColor=239120)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
