@@ -1,46 +1,39 @@
+  
+<img width="250" align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjBucGs4YWI1em15aHY3Z2EwNmp1dXpweGxxN3lpZnhpMmtnYjB5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif">
+
+
 <h3 align="center">
   Welcome to Mariam Mohamed's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+ </h3>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines= Artfitial intelligence and machine learning;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=42cef5&vCenter=true&size=22"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7573F&center=true&vCenter=true&random=false&width=435&lines=Software+engineer" alt="Typing SVG" />
+
 </p> 
 
-<br />
-<br/>
-<p>
-  <img align="right" width="300" src="programmer.gif" alt="Coding gif" />
-</p>
-
-- 🏢 I'm a Software Engineer. <br/>
-- 👨‍💻 As a CS student, I'm learning and exploring new technologies to improve my skills. <br/>
+- 🏢 I'm a Software Engineer 
+- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
  
--  
-- 📧 Reach me anytime: mariam2003mml@gmail.com <br/><br/><br/>
 
-### Connect with me :
-<p>
- <a href="https://www.linkedin.com/in/eslam-abdulaziz-130b3922b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Eslam"/>
- </a>
-  <a href="https://www.facebook.com/el.fohlr/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-0077B5?&style=for-the-badge&logo=facebook&logoColor=white" alt="Eslam"  />
- </a> 
- <a href="https://t.me/islam_momeh" target="_blank">
-  <img src="https://img.shields.io/badge/-Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/>
- </a> 
-</p>
+### Connect with Me :
+
+<a href="https://linkedin.com/in/mohamed-bassiouny-10m" target="_blank"><img src="https://img.shields.io/badge/-mohamed%20bassiouny-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://t.me/mohamedbassiouny1" target="_blank"><img src="https://img.shields.io/badge/-mohamed%20bassiouny-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
-![c++](https://img.shields.io/badge/-c++-05122A?style=flat&logo=c++)&nbsp;
-![C#](https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp&logoColor=239120)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+ style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
-<br/>
-<hr/>
-<br/>
 
 
 
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedbassiouny&yshow_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<br>
+<a href="https://komarev.com/ghpvc/?username=mohamedbassiounyy&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=mohamedbassiounyy&style=for-the-badge">
+</a>
