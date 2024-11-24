@@ -27,7 +27,7 @@
 | Language/Framework IN PROCESS | Badge |
 |--------------------|-------|
 | Python             | ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python) |
-| C++        | ![C++ ](https://img.shields.io/badge/-C++ -05122A?style=flat&logo=C++ ) |
+ 
 |  C#       | ![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=C#) |
  
 | Visual Studio Code | ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) |
