@@ -28,7 +28,7 @@
 |--------------------|-------|
 | Python             | ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python) |
  
-|  C#       | ![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=C#) |
+|  C#                | ![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=C#) |
  
 | Visual Studio Code | ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) |
 
@@ -40,21 +40,6 @@
 
 ### 🌟 Projects
 
-Here are some exciting projects I’ve built to sharpen my programming skills:
-
-- **Weather Forecast App**: A GUI application that fetches real-time weather data using the Weatherstack API, allowing users to select cities and countries from a dropdown list.
-
-- **Currency Converter**: Converts currencies based on live exchange rates, making it easy for users to understand global values.
-
-- **Guessing Game**: An interactive game where users guess a randomly generated number, practicing logic and Python fundamentals.
-
-- **Rock, Paper, Scissors**: A classic game implemented in Python, where users can play against the computer.
-
-- **Text Editor**: A simple text editing application to create, edit, and save text files, akin to Notepad.
-
-- **To-Do List**: An organizational app that helps users manage tasks, allowing them to add, edit, and mark tasks as complete.
-
-- **Web Scraper**: An automated tool for data collection from websites, providing hands-on experience with web scraping libraries.
 
 ---
 
@@ -62,7 +47,7 @@ Here are some exciting projects I’ve built to sharpen my programming skills:
 
 I’m always open to networking and new opportunities! Feel free to reach out:
 
-<a href=" https://www.linkedin.com/in/mariam-mohamed-320581264/" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Ali-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a> 
+<a href=" https://www.linkedin.com/in/mariam-mohamed-320581264/" target="_blank"><img src="https://img.shields.io/badge/ mariam-mohamed-320581264?style=for-the-badge&logo=Linkedin&logoColor=white"/></a> 
 <a href="mariam2003mml@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ---
