@@ -12,14 +12,21 @@
 
 ### 👨‍💻 About Me
 
-🌱 Currently, I'm a CS student.
+🌱 AI & Machine Learning Engineer | Computer Science Graduate
 
-💼 I am learning AI and data analyst at GDSC and AI Engineer at IEEE.
+I'm a Computer Science graduate passionate about Artificial Intelligence, Machine Learning, and Deep Learning.
 
-🎨 
+I have hands-on experience in Python, data preprocessing, machine learning algorithms, and CNN-based deep learning models. I enjoy building intelligent solutions and turning data into practical applications.
 
-🌐 I’m diving into Python to enhance my programming skills  
+My experience includes:
+- Machine Learning & Deep Learning
+- Computer Vision
+- Python & Data Analysis
+- TensorFlow & Scikit-learn
+- Data Preprocessing & Visualization
+- CNN Model Development
 
+I'm continuously learning, building projects, and improving my skills in AI and Machine Learning.
 ---
 
 ### 🛠️ Tech Stack
